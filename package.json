@@ -1,0 +1,17 @@
+{
+  "name": "action-scripter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jsonpath": "^0.2.12",
+    "raw-body": "^2.3.2"
+  }
+}
